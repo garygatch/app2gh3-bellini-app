@@ -1,0 +1,26 @@
+{
+  "type": "custom-component",
+  "name": "wiz1-page1",
+  "nodeName": "wiz1-page1",
+  "children": [
+    {
+      "name": "h3",
+      "nodeName": "h3",
+      "children": [
+        {
+          "name": "text",
+          "nodeName": "text",
+          "textContent": "PAGE 1"
+        }
+      ]
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "externalScripts": [],
+  "externalStylesheets": [],
+  "localScripts": [],
+  "localStylesheets": []
+}

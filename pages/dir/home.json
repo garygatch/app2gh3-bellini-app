@@ -1,0 +1,152 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [],
+  "children": [
+    {
+      "name": "Button",
+      "nodeName": "bln-button",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [
+        {
+          "property": "--bln-button-default-bg-color",
+          "value": "black",
+          "enabled": true
+        },
+        {
+          "property": "--bln-button-default-hovered-bg-color",
+          "value": "#7e2020",
+          "enabled": true
+        },
+        {
+          "property": "--bln-button-default-active-bg-color",
+          "value": "#000000",
+          "enabled": true
+        },
+        {
+          "property": "--bln-button-default-text-color",
+          "value": "#eae6e6",
+          "enabled": true
+        },
+        {
+          "property": "--bln-button-default-hovered-text-color",
+          "value": "#ce7878",
+          "enabled": true
+        },
+        {
+          "property": "--bln-button-default-active-text-color",
+          "value": "white",
+          "enabled": true
+        }
+      ],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": [
+        {
+          "expression": "\"openModal\"",
+          "to": "label"
+        },
+        {
+          "expression": "\"default\"",
+          "to": "type"
+        },
+        {
+          "expression": "$ctrl.$modal.open('modal1')",
+          "to": "onClick"
+        }
+      ]
+    },
+    {
+      "name": "Button",
+      "nodeName": "bln-button",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [
+        {
+          "property": "--bln-button-default-bg-color",
+          "value": "black",
+          "enabled": true
+        },
+        {
+          "property": "--bln-button-default-hovered-bg-color",
+          "value": "#7e2020",
+          "enabled": true
+        },
+        {
+          "property": "--bln-button-default-active-bg-color",
+          "value": "#000000",
+          "enabled": true
+        },
+        {
+          "property": "--bln-button-default-text-color",
+          "value": "#eae6e6",
+          "enabled": true
+        },
+        {
+          "property": "--bln-button-default-hovered-text-color",
+          "value": "#ce7878",
+          "enabled": true
+        },
+        {
+          "property": "--bln-button-default-active-text-color",
+          "value": "white",
+          "enabled": true
+        }
+      ],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": [
+        {
+          "expression": "\"openWiz\"",
+          "to": "label"
+        },
+        {
+          "expression": "\"default\"",
+          "to": "type"
+        },
+        {
+          "expression": "$ctrl.$modal.open('wiz1')",
+          "to": "onClick"
+        }
+      ]
+    }
+  ],
+  "parentDirectoryId": "p68AbcH4fmqdSqGvw4GjX"
+}
