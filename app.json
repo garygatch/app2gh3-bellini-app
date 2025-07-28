@@ -55,11 +55,11 @@
   "externalStylesheets": [],
   "localScripts": [
     {
-      "path": "dir/a.js",
-      "parentDirectoryId": "asyTev2yhLCyWzv8P6jQC"
+      "path": "b.js"
     },
     {
-      "path": "b.js"
+      "path": "dir/a.js",
+      "parentDirectoryId": "asyTev2yhLCyWzv8P6jQC"
     }
   ],
   "localStylesheets": [

@@ -13,6 +13,10 @@
         {
           "property": "core",
           "value": ""
+        },
+        {
+          "property": "data-id",
+          "value": "kyFrA7"
         }
       ],
       "classList": [],
@@ -84,6 +88,10 @@
         {
           "property": "core",
           "value": ""
+        },
+        {
+          "property": "data-id",
+          "value": "P4SvSJ"
         }
       ],
       "classList": [],
@@ -146,6 +154,37 @@
           "to": "onClick"
         }
       ]
+    },
+    {
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "Ievugd"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": []
     }
   ],
   "parentDirectoryId": "p68AbcH4fmqdSqGvw4GjX"
